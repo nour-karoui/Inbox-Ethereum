@@ -31,7 +31,7 @@
 In this project, as a start, we prepared a smart contract that can save a message, retrieve it and update it.
 
 ***PS***: we can't run this project on the browser, since it's not linked to any client side. In order to see the execution of the smart contract,
-we can either copy the contract code from **./contracts/Inbox.sol** in the [REMIX IDE](https://remix.ethereum.org/).
+we can either copy the contract code from **./contracts/Inbox.sol** in the [REMIX IDE](https://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=soljson-v0.4.17+commit.bdeb9e52.js).
 Or, we can simply run the tests using *npm run test*.
 
 
